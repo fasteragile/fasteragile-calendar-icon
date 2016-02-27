@@ -20,14 +20,15 @@ Produces output similar to this:
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+```
+ember install fasteragile-calendar-icon
+```
 
-## Running
+OR
 
-* `ember server`
-* Visit your app at http://localhost:4200.
+```
+npm install fasteragile-calendar-icon
+```
 
 ## Running Tests
 
@@ -35,8 +36,4 @@ Produces output similar to this:
 * `ember test`
 * `ember test --server`
 
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+Built with <3 by [FasterAgile](http://www.fasteragile.com).
