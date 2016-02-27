@@ -1,8 +1,9 @@
 import Ember from 'ember';
 import moment from 'moment';
 
+
 export default Ember.Component.extend({
-  classNames: 'opening-time',
+  classNames: 'calendar-icon',
   time: null,
 
   day: function() {

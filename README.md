@@ -1,6 +1,13 @@
 # fasteragile-calendar-icon
 
-This README outlines the details of collaborating on this Ember addon.
+Displays a calendar icon when passed a date. Currently not terribly configurable
+but it's nice looking.
+
+## Usage
+
+{{#calendar-icon date=todaysDate}}
+
+![calendar icon](https://raw.githubusercontent.com/fasteragile/fasteragile-calendar-icon/master/vendor/fasteragile-calendar-icon-sample.png)
 
 ## Installation
 
