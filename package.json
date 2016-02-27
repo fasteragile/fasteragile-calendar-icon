@@ -1,7 +1,7 @@
 {
   "name": "fasteragile-calendar-icon",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.2",
+  "description": "A small calendar icon.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -15,7 +15,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "FasterAgile",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.2.0",
@@ -38,7 +38,10 @@
     "ember-try": "~0.0.8"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "calendar",
+    "mobile-icon",
+    "fasteragile"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.5"

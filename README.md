@@ -1,4 +1,4 @@
-# Fasteragile-calendar-icon
+# fasteragile-calendar-icon
 
 This README outlines the details of collaborating on this Ember addon.
 
