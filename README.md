@@ -1,11 +1,20 @@
 # fasteragile-calendar-icon
 
-Displays a calendar icon when passed a date. Currently not terribly configurable
-but it's nice looking.
+An Ember CLI addon that provides a component to display a calendar icon.
+Currently not terribly configurable but it's nice looking.
+
+The icon was designed for a mobile application using ember-cli-ratchet, but
+it should also work with webapps.
+
+Uses moment.js to format dates.
 
 ## Usage
 
-{{#calendar-icon date=todaysDate}}
+```
+// In your .hbs template
+{{calendar-icon date=todaysDate}}
+```
+Produces output similar to this:
 
 ![calendar icon](https://raw.githubusercontent.com/fasteragile/fasteragile-calendar-icon/master/vendor/fasteragile-calendar-icon-sample.png)
 
